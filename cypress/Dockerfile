@@ -11,3 +11,4 @@ ADD . .
 RUN npm install --silent --loglevel=error
 
 CMD ["npm", "run", "exec"]
+
